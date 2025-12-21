@@ -146,53 +146,45 @@ class ShishirSrivastav:
 
 ---
 
-## Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=next-2-beat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
 ---
 
-## 🌐 Connect & Follow My Journey
+## Connect & Follow My Journey
 
 <div align="center">
   
-### 📱 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishir-srivastav/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmatic.ly)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://shishirslearningjourney.hashnode.dev/)
+### Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/next_2_beat/)
+[![Discord](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://discord.gg/XvW8Akkhq8)
 
-### 📧 Let's Collaborate
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishir.workemail@gmail.com)
+### Let's Collaborate
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiontoppp@gmail.com)
 
 </div>
 
 ---
 
-## 📚 Content & Learning
+## Content & Learning
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/64/000000/youtube-play.png" alt="YouTube"/>
-        <br><strong>YouTube Channel</strong>
-        <br>Learn AI with Python through hands-on tutorials
-        <br><a href="https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA">Watch & Learn</a>
+        <br><strong>Discord Server</strong>
+        <br>Learn Coding through hands-on Lecture
+        <br><a href="#">Watch & Learn</a>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="Instagram"/>
         <br><strong>Instagram</strong>
         <br>Quick bytes of programming knowledge
-        <br><a href="https://www.instagram.com/programmatic.ly">@programmatic.ly</a>
+        <br><a href="#">next_2_beat</a>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/64/000000/blog.png" alt="Blog"/>
-        <br><strong>Technical Blog</strong>
-        <br>In-depth articles on development & AI
-        <br><a href="https://shishirslearningjourney.hashnode.dev/">Read Articles</a>
+        <br><strong>Hosting</strong>
+        <br>Host your Small Projects with Me
+        <br><a href="#">Read Articles</a>
       </td>
     </tr>
   </table>
@@ -200,13 +192,13 @@ class ShishirSrivastav:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```mermaid
 graph LR
-    A[🤖 Generative AI] --> B[🐍 Python Development]
-    B --> C[☁️ Cloud Solutions]
-    C --> D[📚 Knowledge Sharing]
+    A[Generative AI] --> B[NodeJS Development]
+    B --> C[Cloud Solutions]
+    C --> D[Knowledge Sharing]
     D --> A
     
     style A fill:#e11d48,stroke:#f43f5e,stroke-width:3px,color:#ffffff
@@ -217,11 +209,11 @@ graph LR
 
 ---
 
-## 💡 Philosophy
+## Philosophy
 
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20it%27s%20structured%2C%20it%20can%20be%20automated.&author=Shishir%20Srivastav&border=true" alt="Philosophy Quote"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=If%20it%27s%20structured%2C%20it%20can%20be%20automated.&author=Abhi&border=true" alt="Philosophy Quote"/>
   </a>
 </div>
 
@@ -232,10 +224,10 @@ graph LR
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
   
-  ### 🚀 Ready to build something amazing together?
+  ### Ready to build something amazing together?
   
-  <img src="https://komarev.com/ghpvc/?username=shishir420-git&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=next-2-beat&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
   
-  **⭐ Star my repositories if you find them helpful!**
+  **Star my repositories if you find them helpful!**
   
 </div>
