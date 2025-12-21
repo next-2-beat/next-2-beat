@@ -134,7 +134,6 @@ class ShishirSrivastav:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=next-2-beat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=next-2-beat&show_icons=true&theme=default&hide_border=true&title_color=0066cc&icon_color=0066cc&text_color=333333&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
