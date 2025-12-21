@@ -226,7 +226,7 @@ graph LR
   
   ### Ready to build something amazing together?
   
-  <img src="https://komarev.com/ghpvc/?username=next-2-beat&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=next-2-beat&style=flat-square&color=0066cc" alt="Profile Views"/>
   
   **Star my repositories if you find them helpful!**
   
