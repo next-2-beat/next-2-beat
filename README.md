@@ -7,7 +7,7 @@
   <p>
     <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
     <img src="https://img.shields.io/badge/Focus-NodeJS%20%7C%20Python%20%7C%20Web%20Design-blue?style=for-the-badge&logo=python&logoColor=white" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Mindset-Agile%20%7C%20Problem%20Solver-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Mindset"/>
+    <img src="https://img.shields.io/badge/Mindset-Productive%20%7C%20Problem%20Solver-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Mindset"/>
   </p>
 </div>
 
