@@ -123,7 +123,7 @@ class ShishirSrivastav:
   
 ### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/next_2_beat/)
-[![Discord](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://discord.gg/XvW8Akkhq8)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XvW8Akkhq8)
 
 ### Let's Collaborate
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiontoppp@gmail.com)
