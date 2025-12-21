@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/3392290405/thumb/8.jpg?ip=x480" width="100%"/>
+  <img src="[https://www.shutterstock.com/shutterstock/videos/3392290405/thumb/8.jpg?ip=x480](https://www.shutterstock.com/shutterstock/videos/3653040749/thumb/11.jpg?ip=x480)" width="100%"/>
 </div>
 
 <div align="center">
