@@ -11,30 +11,28 @@
   </p>
 </div>
 
-<!-- Quote Section -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
----
 
-## 💫 What Drives Me
+## What Drives Me
 
 ```python
 class ShishirSrivastav:
     def __init__(self):
-        self.role = "Senior Python Developer"
+        self.role = "Full Stack Developer"
         self.experience = "5+ years"
-        self.philosophy = "If it's structured, it can be automated"
+        self.philosophy = "If it's structured, it Should be Clean"
         self.passion = ["Generative AI", "Clean Code", "Problem Solving", "Knowledge Sharing"]
-        self.current_focus = "Building AI-powered solutions"
+        self.current_focus = "Growing Continously"
     
     def daily_routine(self):
         return [
-            "☕ Chai + Code",
-            "🧠 Learn something new",
-            "🔧 Build & Automate",
-            "📚 Share knowledge",
+            "Chai + Code",
+            "Learn something new",
+            "Build & Automate",
+            "Share knowledge",
         ]
     
     def fun_fact(self):
@@ -43,25 +41,25 @@ class ShishirSrivastav:
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/python.png" alt="Development"/>
-        <h3>🔧 Development</h3>
-        <p>Building robust Python applications with clean, maintainable code following agile methodologies</p>
+        <h3>Development</h3>
+        <p>Building Clean Codes and Something New Everytime. Maintainable code following agile methodologies</p>
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI"/>
-        <h3>🤖 AI Innovation</h3>
-        <p>Exploring Generative AI capabilities and building intelligent solutions that make a difference</p>
+        <h3>AI Innovation</h3>
+        <p>Exploring Generative AI capabilities and building intelligent solutions that make a difference.</p>
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/video.png" alt="Teaching"/>
-        <h3>📚 Knowledge Sharing</h3>
-        <p>Creating educational content on YouTube and Instagram to help others learn AI with Python</p>
+        <h3>Knowledge Sharing</h3>
+        <p>Creating educational content on YouTube and Instagram to help others learn Coding and grow up.</p>
       </td>
     </tr>
   </table>
@@ -69,11 +67,11 @@ class ShishirSrivastav:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -84,7 +82,7 @@ class ShishirSrivastav:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🤖 AI & ML - Generative AI
+### AI & ML - Generative AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=graphql&logoColor=white)
@@ -101,7 +99,7 @@ class ShishirSrivastav:
 ![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge&logo=cloud&logoColor=white)
 ![Agent2Agent](https://img.shields.io/badge/Agent2Agent-22D3EE?style=for-the-badge&logo=connectdevelop&logoColor=white)
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,7 +107,7 @@ class ShishirSrivastav:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-4F46E5?style=for-the-badge&logo=database&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -121,7 +119,7 @@ class ShishirSrivastav:
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -132,27 +130,27 @@ class ShishirSrivastav:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shishir420-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir420-git&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=next-2-beat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-2-beat&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishir420-git&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=next-2-beat&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir420-git&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=next-2-beat&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shishir420-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=next-2-beat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
