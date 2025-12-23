@@ -105,14 +105,6 @@ class ShishirSrivastav:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=next-2-beat&show_icons=true&theme=radical"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-2-beat&hide_progress=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=next-2-beat&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ---
