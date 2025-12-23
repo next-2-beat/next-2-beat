@@ -106,7 +106,7 @@ class ShishirSrivastav:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next-2-beat&layout=donut-vertical" alt="Contribution Graph"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=next-2-beat&hide_progress=true)
 </div>
 
 <div align="center">
